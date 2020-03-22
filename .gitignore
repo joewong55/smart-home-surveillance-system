@@ -1,1 +1,6 @@
-
+.DS_Store
+src-private/
+src/package-detection/data/train/package/*.jpeg
+src/package-detection/data/train/no_package/*.jpeg
+src/package-detection/data/validate/package/*.jpeg
+src/package-detection/data/validate/no_package/*.jpeg
